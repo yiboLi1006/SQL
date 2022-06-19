@@ -1,2 +1,2 @@
 # SQL
-A brief introduction to SQL
+A brief introduction
